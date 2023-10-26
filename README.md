@@ -11,10 +11,8 @@ Before you can use this script, you need to install the required Python librarie
 
 You can install the necessary Python libraries using pip:
 
-shellCopy code
-
-`pip install requests
-pip install geopy` 
+`pip install requests`
+`pip install geopy` 
 
 ### Google Places API Key
 
